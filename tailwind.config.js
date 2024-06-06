@@ -5,6 +5,7 @@ export default {
     extend: {
       backgroundImage: {
         'custom-gradient': 'linear-gradient(to bottom, #FFFFFF, #DEDEDE)',
+        'custom-gradient2':'linear-gradient(180deg, #F2F2F2 0%, #BBBBBB 94.76%)'
        
       },
 
@@ -18,6 +19,11 @@ colors:{
     
   }
 
+},
+
+
+customZindex:{
+  '-1':'-1',
 }
 
 
