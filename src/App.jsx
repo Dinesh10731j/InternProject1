@@ -11,22 +11,23 @@ function App() {
         <section className="flex flex-col justify-center items-center ">
           <Error />
         </section>
-        <section className="absolute top-[105.96px] w-[300.14px] 
-        h-[350.68px] left-[1.96px] 
-        rotate-[170.19deg] bg-custom-gradient2 rounded-r-full shadow-lg  "></section>
-        <section>
+        <section className="absolute top-[105.96px] w-[100.14px] 
+        h-[100.68px] left-[12.96px] 
+        rotate-[170.19deg] bg-custom-gradient2 rounded-r-full shadow-lg  ">
 
-        <section className="absolute top-[105.96px] w-[300.14px] 
+        </section> 
+     
+
+        <section className="absolute top-[200.96px] w-[100.14px] 
         shadow-lg
-        h-[350.68px] right-[3.96px]  
+        h-[100.68px] right-[12.96px]  
         rotate-[170.19deg] bg-custom-gradient2 rounded-l-full ">
 
         </section>
-      
         
           <Footer />
         </section>
-      </section>
+     
     </>
   );
 }

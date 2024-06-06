@@ -10,7 +10,7 @@ function Footer() {
             <img
               src={Codynnlogo}
               alt="codynn_logo"
-              className="h-[90px]  w-[90px]"
+              className="h-[200px]  w-[200px] mt-12"
             />
           </section>
           <section>
