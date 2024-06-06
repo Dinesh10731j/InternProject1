@@ -16,10 +16,7 @@ function Footer() {
           <section>
             <nav>
               <ul
-                className="flex flex-row text-white flex-wrap h-[100px] w-[300px] space-x-4 space-y-3
-                
-      p-6"
-              >
+                className="flex flex-row text-white flex-wrap h-[100px] w-[300px] space-x-4 space-y-3 p-6">
                 <li>Home</li>
                 <li>Challenges</li>
                 <li>Versus Battles</li>
@@ -42,7 +39,7 @@ function Footer() {
         </section>
 
         <section className="px-4">
-          <h1 className="text-white text-8xl font-bold  text-center tracking-wide">
+          <h1 className="text-white text-8xl font-bold  text-center tracking-wide  mt-8">
             Codynn
           </h1>
         </section>
