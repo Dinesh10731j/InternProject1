@@ -2,6 +2,8 @@ import React from "react";
 import Header from "./components/Header";
 import Error from "./components/Error";
 import Footer from "./components/Footer";
+import Frame from "./assets/Frame.png";
+import Vector from "./assets/Vector.png"
 
 function App() {
   return (
@@ -11,17 +13,15 @@ function App() {
         <section className="flex flex-col justify-center items-center ">
           <Error />
         </section>
-        <section className="absolute top-[105.96px] w-[100.14px] 
-        h-[100.68px] left-[12.96px] 
-        rotate-[170.19deg] bg-custom-gradient2 rounded-r-full shadow-lg  ">
-
+        <section className="absolute top-[200px] left-0">
+<img src={Frame} alt="frame1"  className="h-[300px] w-[500px]"/>
         </section> 
      
 
-        <section className="absolute top-[190.96px] w-[100.14px] 
-        shadow-lg
-        h-[100.68px] right-[12.96px]  
-        rotate-[170.19deg] bg-custom-gradient2 rounded-l-full ">
+        <section>
+        <section className="absolute top-[200px] right-0">
+<img src={Vector} alt="frame1"  className="h-[300px] w-[500px]"/>
+        </section> 
 
         </section>
         
