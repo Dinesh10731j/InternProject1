@@ -16,8 +16,9 @@ function Footer() {
           <section>
             <nav>
               <ul
-                className="flex flex-row text-white flex-wrap h-[100px] w-[300px] space-x-4 space-y-3 p-6">
-                <li>Home</li>
+                className="flex flex-row text-white flex-wrap h-[100px] justify-center items-center   
+                 w-[300px] space-x-3 space-y-3 p-6">
+                <li className="mt-3">Home</li>
                 <li>Challenges</li>
                 <li>Versus Battles</li>
                 <li>Compiler</li>
