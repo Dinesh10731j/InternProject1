@@ -10,7 +10,7 @@ function Error() {
     <h4 className='text-lg'><span className='font-bold text-3xl'>Oops! </span>Site didn't found </h4>
     <p className='text-lg text-auto tracking-tighter'>We are experiencing an internal server problem,</p>
     <p className='text-lg'>please try again later.</p>
-    <button className="rounded-3xl bg-black text-white px-5 py-2 mt-7">Reload</button>
+    <button className="rounded-3xl bg-black text-white px-5 py-2 mt-7 text-center">Reload</button>
 
     </section>
 
