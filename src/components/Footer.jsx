@@ -31,10 +31,10 @@ function Footer() {
           </section>
           <section className="flex flex-col justify-center">
             <section className="flex flex-row space-x-9">
-              <button className=" bg-white  h-[70px] w-[70px] rounded-full shadow-customShadow">
+              <button className=" bg-white  h-[70px] w-[70px] rounded-full shadow-customShadow font-bold tracking-wide">
                 Contact Us ➡️
               </button>
-              <button className="h-[70px] w-[70px] rounded-full shadow-customShadow2 bg-orange-300">
+              <button className="h-[70px] w-[70px] rounded-full shadow-customShadow2 bg-[#FFD700] font-bold tracking-wide">
                 Reviews ⬇️
               </button>
             </section>
@@ -42,7 +42,9 @@ function Footer() {
         </section>
 
         <section className="px-4">
-          <h1 className="text-white text-8xl font-bold  text-center tracking-wide">Codynn</h1>
+          <h1 className="text-white text-8xl font-bold  text-center tracking-wide">
+            Codynn
+          </h1>
         </section>
       </footer>
     </>
