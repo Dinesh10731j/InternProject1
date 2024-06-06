@@ -18,7 +18,7 @@ function App() {
         </section> 
      
 
-        <section className="absolute top-[200.96px] w-[100.14px] 
+        <section className="absolute top-[190.96px] w-[100.14px] 
         shadow-lg
         h-[100.68px] right-[12.96px]  
         rotate-[170.19deg] bg-custom-gradient2 rounded-l-full ">
