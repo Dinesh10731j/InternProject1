@@ -16,8 +16,6 @@ function App() {
         <section className="absolute top-[190px] left-0 ">
 <img src={Frame} alt="frame1" className="h-[300.68px] w-[500.14px]"/>
         </section> 
-     
-
         <section>
         <section className="absolute top-[190px] right-0">
 <img src={Vector} alt="frame1"  className="h-[310.14px] w-[500.96px]"/>
