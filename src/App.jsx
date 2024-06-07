@@ -13,8 +13,8 @@ function App() {
         <section className="flex flex-col justify-center items-center ">
           <Error />
         </section>
-        <section className="absolute top-[190px] left-0 ">
-<img src={Frame} alt="frame1" className="h-[300.68px] w-[500.14px]"/>
+        <section className="absolute top-[110px] left-0 -z-7">
+<img src={Frame} alt="frame1" className="h-[360.68px] w-[400.14px]"/>
         </section> 
         <section>
         <section className="absolute top-[190px] right-0">

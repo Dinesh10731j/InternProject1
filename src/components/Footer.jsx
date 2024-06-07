@@ -4,7 +4,7 @@ import Codynnlogo from "../assets/codynn_logo.jpg";
 function Footer() {
   return (
     <>
-      <footer className="h-[300px] w-[100%] p-5 bg-footerColor-customBackgroundColor ">
+      <footer className="h-[300px] w-[100%] p-5 bg-footerColor-customBackgroundColor z-50 ">
         <section className="flex flex-row space-x-4 justify-between">
           <section className="h-[100px] w-[400px] flex flex-col justify-center  items-center">
             <img
